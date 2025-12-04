@@ -1,5 +1,5 @@
 <!-- USE Ctrl+Shift+V in VSCode to preview the following markdown -->
-**Got absolutely bored and carried away with a course project... accidentally turned it into a whole thing :)**
+**Got carried away with an amazing course project... accidentally turned it into a whole thing :)**
 
 # The Sorting Assignment (A step-by-step usage guide)
 A modular Python application that demonstrates **separation of concerns** across sorting, I/O, networking, and orchestration layers.
